@@ -18,7 +18,7 @@ Considero que este curso puede ayudarme a mejorar el diseño y la aplicación de
 
 Aquí pondré los enlaces a las actividades a realizar:
 
-- Actividad 1:
+- Actividad 1: [UNIDAD 1. Marco normativo y fundamentos del Proyecto Intermodular](./docs/activities/UD1.md)
 
 - Actividad 2:
 
