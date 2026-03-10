@@ -54,4 +54,14 @@ Segunda punto 2:
 Segunda punto 3:
 > El Proyecto intermodular será impartido a través de la metodología de aprendizaje basada en retos. El equipo docente establecerá, al comienzo de cada curso académico, uno o varios retos para cada Proyecto intermodular. Estos retos tendrán una temática relacionada con la especialidad del ciclo y supondrán una simulación de situaciones reales que puedan darse en el sector productivo. El proyecto activará resultados de aprendizaje del conjunto de módulos profesionales.
 
+## Reflexiones
+- ¿Has descubierto alguna novedad para el desarrollo de este módulo en tu comunidad autónoma?
+> No, la mayoría de estos puntos ya se habían comentado en el centro junto con el equipo directivo.
+
+- ¿Cómo impactan estas normas en la programación del proyecto intermodular?
+> Impactan fuerte y muchos niveles, ya que de un curso para otro se han hecho muchas modificaciones a nivel de centro para poder cumplir la normativa.
+
+- ¿Encuentras alguna oportunidad y/o dificultad para llevar a cabo la programación de este módulo?
+> Más dificultades que oportunidades. Oportunidad es la participación del profesorado en un módulo que hasta ahora era un poco más particularizado a la parte técnica, pero es muy difícil coordinar a los docentes para gestionar buenos horarios de trabajo personal con el aprendizaje del alumnado.
+
 [<- Volver al portfolio](../../README.md)
