@@ -1,5 +1,14 @@
-# UNIDAD 2. M
+# UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular
 
+## Boceto del reto
+
+En esta imagen se plantea el diseño de un reto para el segundo curso del ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (2DAM).
+
+![Reto 2DAM](../imgs/CANVAS-UD2-COMPLETED.png)
+
+## Diseño original sin rellenar
+
+![Diseño Genially original](../imgs/CANVAS-UD2-DISEÑO_ORIGINAL.png)
 
 
 ## Guía (enunciado) de realización de la actividad

@@ -20,7 +20,7 @@ Aquí pondré los enlaces a las actividades a realizar:
 
 - Actividad 1: [UNIDAD 1. Marco normativo y fundamentos del Proyecto Intermodular](./docs/activities/UD1.md)
 
-- Actividad 2:
+- Actividad 2: [UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular](./docs/activities/UD2.md)
 
 - Actividad 3:
 
