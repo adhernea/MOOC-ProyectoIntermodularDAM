@@ -22,6 +22,6 @@ Aquí pondré los enlaces a las actividades a realizar:
 
 - Actividad 2: [UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular](./docs/activities/UD2.md)
 
-- Actividad 3:
+- Actividad 3: [UNIDAD 3. Crea un tutor IA personalizado para tu proyecto](./docs/activities/UD3.md)
 
 - Actividad 4:
